@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ekrishi</string>
+    <string name="apom">APOM</string>
+    <string name="sign_in_text">SIGN IN</string>
+    <string name="forgot_buttom_text">FORGOT</string>
+    <string name="register_button_text">REGISTER</string>
+    <string name="email_input_hint">Email</string>
+    <string name="password_input_hint">Password</string>
+    <string name="todo">TODO</string>
+    <string name="phone_input_hint">Mobile Number</string>
+    <string name="registration_apom">APOM REGISTRATION</string>
+    <string name="name_input_hint">Full Name</string>
+    <string name="test_toast_message">Some one clicked the register button</string>
+
+</resources>
